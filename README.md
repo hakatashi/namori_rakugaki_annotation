@@ -1,4 +1,4 @@
-# namori_rakugaki_animation
+# namori_rakugaki_annotation
 
 なもり先生がTwitterにアップロードしている「最近のらくがき」に対するキャラクター名・作品名のアノテーションデータ
 
