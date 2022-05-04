@@ -6,10 +6,10 @@ dotenv.config();
 
 const twitter = (method: 'GET' | 'POST', endpoint: string, parameters: {[key: string]: string}) => {
 	const keys = {
-		consumer_key: process.env.CONSUMER_KEY,
-		consumer_secret: process.env.CONSUMER_SECRET,
-		access_token_secret: process.env.ACCESS_TOKEN_SECRET,
-		access_token: process.env.ACCESS_TOKEN,
+		consumer_key: process.env.CONSUMER_KEY!,
+		consumer_secret: process.env.CONSUMER_SECRET!,
+		access_token_secret: process.env.ACCESS_TOKEN_SECRET!,
+		access_token: process.env.ACCESS_TOKEN!,
 	};
 
 	const oauth = new OAuth(
@@ -74,7 +74,7 @@ interface Medium {
 	while (true) {
 		console.error(`Fetching tweets... (maxId = ${maxId})`);
 		const tweets: any = await twitter('GET', 'statuses/user_timeline', {
-			screen_name: '_namori_',
+			screen_name: 'Ixy',
 			count: '200',
 			exclude_replies: 'true',
 			trim_user: 'true',
@@ -103,7 +103,7 @@ interface Medium {
 	}
 
 	const lines = media.reverse().map(({tweetId, id, url}) => [
-		`=HYPERLINK("https://twitter.com/_namori_/status/${tweetId}", "${tweetId}")`,
+		`=HYPERLINK("https://twitter.com/Ixy/status/${tweetId}", "${tweetId}")`,
 		id,
 		url,
 		`=HYPERLINK("${url}?name=orig", IMAGE("${url}?name=orig"))`,
