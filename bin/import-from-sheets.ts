@@ -10,7 +10,7 @@ import {google} from 'googleapis';
 	const sheetsData = await new Promise<string[][]>((resolve, reject) => {
 		sheets.spreadsheets.values.get({
 			spreadsheetId: '1pyd2LjAI2vjjDFlRc21V2yFxSmtity7x42zDDrKyAWk',
-			range: 'ixy!A:G',
+			range: 'ixy!A:H',
 		}, (error, response) => {
 			if (error) {
 				reject(error);

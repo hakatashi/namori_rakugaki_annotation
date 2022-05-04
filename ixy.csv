@@ -14,7 +14,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 684682338811248640,684682338056339456,https://pbs.twimg.com/media/CYB69XfVAAAbapi.png,双葉 杏,ふたば あんず,アイドルマスターシンデレラガールズ,0
 685036786960076800,685036786188292096,https://pbs.twimg.com/media/CYG9U9rUEAAYzCt.png,暮井 慧、プロ生ちゃん,くれい けい、ぷろなまちゃん,プログラミング生放送,0
 685115745601073153,685115744187633664,https://pbs.twimg.com/media/CYIFI7JU0AAV9pI.png,武部 沙織,たけべ さおり,ガールズ&パンツァー,0
-686151597051625472,686151596246368256,https://pbs.twimg.com/media/CYWzPcxVAAAYzfT.png,初音 ミク,はつね みく,VOCALOID,0
+686151597051625472,686151596246368256,https://pbs.twimg.com/media/CYWzPcxVAAAYzfT.png,初音 ミク,はつね みく,VOCALOID,1
 686958554188648448,686958553165217793,https://pbs.twimg.com/media/CYiRKhjUQAEeq2y.png,ブラック・マジシャン・ガール,ぶらっく まじしゃん がーる,遊戯王,0
 687278884153212928,687278883314384896,https://pbs.twimg.com/media/CYm0gMWUwAAZM3l.png,佐倉 杏子,さくら きょうこ,魔法少女まどか☆マギカ,0
 687456610516467712,687456609048526848,https://pbs.twimg.com/media/CYpWJMTVAAAhwEJ.png,双葉 杏,ふたば あんず,アイドルマスターシンデレラガールズ,0
@@ -28,7 +28,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 689222195705327616,689222194975522816,https://pbs.twimg.com/media/CZCb70bUwAANlO-.png,双葉 杏,ふたば あんず,アイドルマスターシンデレラガールズ,0
 689463025791664128,689463023904301056,https://pbs.twimg.com/media/CZF296GVIAACKX0.png,杉浦 綾乃&歳納 京子,すぎうら あやの&としのう きょうこ,ゆるゆり,0
 689707847450398720,689707846477287424,https://pbs.twimg.com/media/CZJVodQUEAASUIU.png,泉 こなた,いずみ こなた,らき☆すた,0
-689832072219734020,689832071221542912,https://pbs.twimg.com/media/CZLGnSfVAAAZjA6.png,秋山 優花里,あきやま ゆかり,ガールズ&パンツァー,0
+689832072219734020,689832071221542912,https://pbs.twimg.com/media/CZLGnSfVAAAZjA6.png,秋山 優花里,あきやま ゆかり,ガールズ&パンツァー,2
 690509200229724161,690509199382474752,https://pbs.twimg.com/media/CZUudVdU8AAzwrr.png,メイ,めい,ポケットモンスター,0
 691168120082305025,691168118626910208,https://pbs.twimg.com/media/CZeFve7VAAAoTj8.png,クロエ,くろえ,新・世界樹の迷宮2,0
 691671165199192064,691671162842054656,https://pbs.twimg.com/media/CZlPQgqVAAA912T.png,千反田 える,ちたんだ える,〈古典部〉シリーズ,0
@@ -39,16 +39,16 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 693781172682362880,693781171310764032,https://pbs.twimg.com/media/CaDOTKvVIAAkD9p.png,折部 やすな,おりべ やすな,キルミーベイベー,0
 694126870128766977,694126868555935744,https://pbs.twimg.com/media/CaIItZVUsAAuA9U.png,灰原 哀,はいばら あい,名探偵コナン,0
 694501702494322688,694501701579984898,https://pbs.twimg.com/media/CaNdnjKUUAIXAQ_.png,本間 芽衣子、めんま,ほんま めいこ、めんま,あの日見た花の名前を僕達はまだ知らない。,0
-695235230999793664,695235230001528833,https://pbs.twimg.com/media/CaX4wheUAAEVbpI.png,日奈森 あむ、日奈森 亜夢,ひなもり あむ、ひなもり あむ,しゅごキャラ！,0
+695235230999793664,695235230001528833,https://pbs.twimg.com/media/CaX4wheUAAEVbpI.png,日奈森 あむ、日奈森 亜夢,ひなもり あむ、ひなもり あむ,しゅごキャラ！,1
 695351282656104449,695351281527853056,https://pbs.twimg.com/media/CaZiTnGUkAAnvwx.png,めぐみん,めぐみん,この素晴らしい世界に祝福を!,0
 695909138816077824,695909138014949376,https://pbs.twimg.com/media/CahdrIdUUAANEKI.png,琴吹 紬,ことぶき つむぎ,けいおん！,0
 696263302393933824,696263301626331136,https://pbs.twimg.com/media/CamfyKuUAAAwobA.png,十時 愛梨,ととき あいり,アイドルマスターシンデレラガールズ,0
-696638271200194560,696638270361333760,https://pbs.twimg.com/media/Car00OHUcAA3HC0.png,大室 櫻子,おおむろ さくらこ,ゆるゆり,0
-696994299087433729,696994298110169088,https://pbs.twimg.com/media/Caw4nw1UUAAnpU5.png,平沢 唯,ひらさわ ゆい,けいおん！,0
-697384042031779840,697384041197101056,https://pbs.twimg.com/media/Ca2bFy-UYAA0g0Q.png,双葉 杏,ふたば あんず,アイドルマスターシンデレラガールズ,0
+696638271200194560,696638270361333760,https://pbs.twimg.com/media/Car00OHUcAA3HC0.png,大室 櫻子,おおむろ さくらこ,ゆるゆり,2
+696994299087433729,696994298110169088,https://pbs.twimg.com/media/Caw4nw1UUAAnpU5.png,平沢 唯,ひらさわ ゆい,けいおん！,2
+697384042031779840,697384041197101056,https://pbs.twimg.com/media/Ca2bFy-UYAA0g0Q.png,双葉 杏,ふたば あんず,アイドルマスターシンデレラガールズ,2
 697726560791494656,697726559931621376,https://pbs.twimg.com/media/Ca7SnAsUYAA1N3Y.png,高鴨 穏乃,たかかも しずの,咲-Saki-阿知賀編,0
 698102018225807360,698102017365905410,https://pbs.twimg.com/media/CbAoFgoUEAIu8n2.png,カースメーカー,かーすめーかー,世界樹の迷宮,0
-699227115678355456,699227114873028608,https://pbs.twimg.com/media/CbQnWzdUAAArV6O.png,秋山 優花里,あきやま ゆかり,ガールズ&パンツァー,0
+699227115678355456,699227114873028608,https://pbs.twimg.com/media/CbQnWzdUAAArV6O.png,秋山 優花里,あきやま ゆかり,ガールズ&パンツァー,2
 699607048506384384,699607047726190592,https://pbs.twimg.com/media/CbWA5zoUUAAQPhP.png,アンルシア,あんるしあ,ドラゴンクエスト,0
 699967339161264133,699967338251030528,https://pbs.twimg.com/media/CbbIlebUEAA3gZF.png,田井中 律,たいなか りつ,けいおん！,0
 700636040751509504,700636039493263360,https://pbs.twimg.com/media/CbkoxArVIAAIm1j.png,前川 みく,まえかわ みく,アイドルマスターシンデレラガールズ,0
@@ -57,16 +57,16 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 701644981405032448,701644980448677888,https://pbs.twimg.com/media/Cby-ZGoUUAA24V4.png,前川 みく,まえかわ みく,アイドルマスターシンデレラガールズ,0
 702450580858404864,702450579973386242,https://pbs.twimg.com/media/Cb-bFKuUsAI_v8q.png,アンチョビ,あんちょび,ガールズ&パンツァー,0
 703193407494094848,703193406692982784,https://pbs.twimg.com/media/CcI-rX5VAAAlmYS.jpg,ダンサー,だんさー,世界樹の迷宮,0
-703533897619939328,703533896718114816,https://pbs.twimg.com/media/CcN0WgFUYAAcuT5.jpg,蕪羅亭 魔梨威、マリー,ぶらてい まりい、まりー,じょしらく,0
-703926153463992320,703926152599965696,https://pbs.twimg.com/media/CcTZGzHUEAArxVy.jpg,初音 ミク,はつね みく,VOCALOID,0
-705015842921054209,705015841834688514,https://pbs.twimg.com/media/Cci4LD2UYAI0BIn.jpg,雛苺,ひないちご,ローゼンメイデン,0
-705333429374570496,705333428510560256,https://pbs.twimg.com/media/CcnZBCaUkAAw5Mg.jpg,めぐみん,めぐみん,この素晴らしい世界に祝福を!,0
+703533897619939328,703533896718114816,https://pbs.twimg.com/media/CcN0WgFUYAAcuT5.jpg,蕪羅亭 魔梨威、マリー,ぶらてい まりい、まりー,じょしらく,2
+703926153463992320,703926152599965696,https://pbs.twimg.com/media/CcTZGzHUEAArxVy.jpg,初音 ミク,はつね みく,VOCALOID,2
+705015842921054209,705015841834688514,https://pbs.twimg.com/media/Cci4LD2UYAI0BIn.jpg,雛苺,ひないちご,ローゼンメイデン,2
+705333429374570496,705333428510560256,https://pbs.twimg.com/media/CcnZBCaUkAAw5Mg.jpg,めぐみん,めぐみん,この素晴らしい世界に祝福を!,1
 705713906241523712,705713905398472705,https://pbs.twimg.com/media/CcszDtRUYAEZa4c.jpg,夢野 歌,ゆめの うた,おねがいマイメロディ,0
 706127603485126656,706127602650468353,https://pbs.twimg.com/media/CcyrUDoUUAE1o3s.jpg,リーフ,りーふ,ポケットモンスター,0
 756385954856775680,756385824887877632,https://pbs.twimg.com/media/Cn845nWVMAA-_2P.jpg,赤井 結,あかい ゆい,楽天オーネット,0
 768161636397887488,768161580789882880,https://pbs.twimg.com/media/CqkO40kVYAA-FkR.jpg,リース,りーす,聖剣伝説3,0
 793022518722301952,793022300396204032,https://pbs.twimg.com/media/CwFhlKIUMAARjZ6.jpg,ペルタスト,ぺるたすと,Tree of Savior,0
-815591606354997249,815591191911677952,https://pbs.twimg.com/media/C1GP3ivVQAAjb-I.jpg,秋山 優花里,あきやま ゆかり,ガールズ&パンツァー,0
+815591606354997249,815591191911677952,https://pbs.twimg.com/media/C1GP3ivVQAAjb-I.jpg,秋山 優花里,あきやま ゆかり,ガールズ&パンツァー,1
 816532037746077696,816531583804973056,https://pbs.twimg.com/media/C1TnJjiVIAAC3l8.jpg,国広 一,くにひろ はじめ,咲-Saki-,0
 816963818215469057,816963712644878337,https://pbs.twimg.com/media/C1ZwKw6VEAE_8xj.jpg,黄前 久美子,おうまえ くみこ,響け！ユーフォニアム,0
 817319475968020480,817319269142663170,https://pbs.twimg.com/media/C1ezi4FUkAISJ0k.jpg,ハイランダー,はいらんだー,Tree of Savior,0
@@ -77,24 +77,24 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 818881078895067136,818880937375059968,https://pbs.twimg.com/media/C10_37mUUAAsUrW.jpg,天真=ガヴリール=ホワイト,てんま がゔりーる ほわいと,ガヴリールドロップアウト,0
 819258540418183169,819258455760322560,https://pbs.twimg.com/media/C16XOZLUQAAv1wp.jpg,翠星石,すいせいせき,ローゼンメイデン,0
 819945031448412160,819945000653860865,https://pbs.twimg.com/media/C2EHokNUsAE86sK.jpg,めぐみん,めぐみん,この素晴らしい世界に祝福を!,0
-820768918784479233,820768789880934401,https://pbs.twimg.com/media/C2P03aOUkAEFPsj.jpg,吉川 優子,よしかわ ゆうこ,響け！ユーフォニアム,0
+820768918784479233,820768789880934401,https://pbs.twimg.com/media/C2P03aOUkAEFPsj.jpg,吉川 優子,よしかわ ゆうこ,響け！ユーフォニアム,2
 821190505463627780,821190344926605312,https://pbs.twimg.com/media/C2V0RJJUsAAckfl.jpg,プラチナ=ザ=トリニティ,ぷらちな ざ とりにてぃ,BLAZBLUE,0
 821784806480449536,821784630080598016,https://pbs.twimg.com/media/C2eQxF3UcAA_g6R.jpg,ハイパー・ブロッサム、赤堤ももこ,はいぱー ぶろっさむ、あかづつ むろこ,出ましたっ!パワパフガールズZ,0
 822444647892979713,822444536458670080,https://pbs.twimg.com/media/C2no8ssUcAAbwwy.jpg,賢者,けんじゃ,ドラゴンクエスト,0
 822807054976839681,822806258113646606,https://pbs.twimg.com/media/C2sx7q3VEA48TNI.jpg,カレン,かれん,タイムボカン24,0
-823509289000005632,823509035823472641,https://pbs.twimg.com/media/C22xGt2VIAElLnV.jpg,めぐみん,めぐみん,この素晴らしい世界に祝福を!,0
+823509289000005632,823509035823472641,https://pbs.twimg.com/media/C22xGt2VIAElLnV.jpg,めぐみん,めぐみん,この素晴らしい世界に祝福を!,1
 823889792484024320,823889494306758660,https://pbs.twimg.com/media/C28LIUJUoAQnVi8.jpg,鹿目 まどか,かなめ まどか,魔法少女まどか☆マギカ,0
 824616927385440256,824616845411971072,https://pbs.twimg.com/media/C3GgpuKVcAAWX6g.jpg,鶴田 姫子,つるた ひめこ,咲-Saki-阿知賀編,0
 825002749934710784,825002369523912704,https://pbs.twimg.com/media/C3L_SLZUEAAFpeN.jpg,城ヶ崎 莉嘉,じょうがさき りか,アイドルマスターシンデレラガールズ,0
 825351483407298560,825350395090210816,https://pbs.twimg.com/media/C3Q7z7qUkAAIWIP.jpg,中原 小麦,なかはら こむぎ,ナースウィッチ小麦ちゃんマジカルて,0
-825503429342564352,825503344294653952,https://pbs.twimg.com/media/C3TG6v2UcAA1XdE.jpg,スイレン,すいれん,ポケットモンスター,0
+825503429342564352,825503344294653952,https://pbs.twimg.com/media/C3TG6v2UcAA1XdE.jpg,スイレン,すいれん,ポケットモンスター,2
 825781092619673600,825780864483151873,https://pbs.twimg.com/media/C3XDUjHVUAEXogM.jpg,姪乃浜 梢,めいのはま こずえ,なれる！SE,0
-825998445311774721,825998143271493633,https://pbs.twimg.com/media/C3aI71rUYAE1IIx.jpg,武部 沙織,たけべ さおり,ガールズ&パンツァー,0
+825998445311774721,825998143271493633,https://pbs.twimg.com/media/C3aI71rUYAE1IIx.jpg,武部 沙織,たけべ さおり,ガールズ&パンツァー,2
 826874648826572803,826874609559408648,https://pbs.twimg.com/media/C3mmE5CUEAgBFJW.jpg,スイレン,すいれん,ポケットモンスター,0
 827046745716568065,827046510068064256,https://pbs.twimg.com/media/C3pCa0VVYAAOzWx.jpg,アンチョビ,あんちょび,ガールズ&パンツァー,0
 827875493839982592,827875393415766021,https://pbs.twimg.com/media/C300SLbVYAUBQ6T.jpg,高鴨 穏乃,たかかも しずの,咲-Saki-阿知賀編,0
 828187827330375681,828187716265185281,https://pbs.twimg.com/media/C35QVwtUEAE6wAI.jpg,長門 有希,ながと ゆき,涼宮ハルヒの憂鬱,0
-828289344368619520,828289275867193348,https://pbs.twimg.com/media/C36stTtUYAQ8eI9.jpg,スイレン,すいれん,ポケットモンスター,0
+828289344368619520,828289275867193348,https://pbs.twimg.com/media/C36stTtUYAQ8eI9.jpg,スイレン,すいれん,ポケットモンスター,2
 828647936149970944,828647925748076546,https://pbs.twimg.com/media/C3_y5eoUEAIZaBq.jpg,双葉 杏,ふたば あんず,アイドルマスターシンデレラガールズ,0
 828857997107400705,828857939557441536,https://pbs.twimg.com/media/C4Cx55CVYAAAJsC.jpg,平沢 唯,ひらさわ ゆい,けいおん！,0
 829061963049078785,829061950151630849,https://pbs.twimg.com/media/C4Frc3uUoAEmXWx.jpg,平沢 唯,ひらさわ ゆい,けいおん！,0
@@ -106,7 +106,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 830673447491547137,830673358492569600,https://pbs.twimg.com/media/C4clBLlUkAAB30D.jpg,スイレン,すいれん,ポケットモンスター,0
 831205715666628611,831205688416178176,https://pbs.twimg.com/media/C4kJK3FUkAAwqy2.jpg,山田 葵,やまだ あおい,WORKING!!,0
 831609024927801345,831608951808462848,https://pbs.twimg.com/media/C4p374SUEAAUwXR.jpg,島風,しまかぜ,艦隊これくしょん,0
-832073801751891968,832073760945475584,https://pbs.twimg.com/media/C4werVQUEAAxGxm.jpg,胡桃沢=サタニキア=マクドウェル、サターニャ,くるみざわ さたにきあ まくどうぇる、さたーにゃ,ガヴリールドロップアウト,0
+832073801751891968,832073760945475584,https://pbs.twimg.com/media/C4werVQUEAAxGxm.jpg,胡桃沢=サタニキア=マクドウェル、サターニャ,くるみざわ さたにきあ まくどうぇる、さたーにゃ,ガヴリールドロップアウト,2
 832627182321094657,832626627725004804,https://pbs.twimg.com/media/C44VgagUkAQ8PxA.png,アフリカタテガミヤマアラシ,あふりかたてがみやまあらし,けものフレンズ,0
 833549414098620420,833549405131153408,https://pbs.twimg.com/media/C5FcxIOUoAA0HZP.jpg,スイレン,すいれん,ポケットモンスター,0
 834707503053025280,834707494379196416,https://pbs.twimg.com/media/C5V6Cy3UEAAGui-.jpg,かばんちゃん、かばん,かばんちゃん、かばん,けものフレンズ,0
@@ -125,7 +125,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 862642263838543874,862642200244502528,https://pbs.twimg.com/media/C_i4grnVwAA37V8.jpg,スイレン,すいれん,ポケットモンスター,0
 889361050025447433,889360984921432064,https://pbs.twimg.com/media/DFelGo9VYAA1NDm.jpg,高 モリ子,たか もりこ,キリザキ君は。,0
 898686617212207104,898686550963142656,https://pbs.twimg.com/media/DHjGqBqUQAAJX6A.jpg,ベロニカ,べろにか,ドラゴンクエスト,0
-950728194558083074,950728138819973120,https://pbs.twimg.com/media/DTGqNIBVMAAjV0a.jpg,佐倉 杏子,さくら きょうこ,魔法少女まどか☆マギカ,0
+950728194558083074,950728138819973120,https://pbs.twimg.com/media/DTGqNIBVMAAjV0a.jpg,佐倉 杏子,さくら きょうこ,魔法少女まどか☆マギカ,2
 950980741789138944,950980733660626945,https://pbs.twimg.com/media/DTKP8FIVAAEAzrt.jpg,ククリ,くくり,魔法陣グルグル,0
 951074393366585344,951074338463129601,https://pbs.twimg.com/media/DTLlEmMVoAE8BnB.jpg,柊 かがみ,ひいらぎ かがみ,らき☆すた,0
 951393092308910080,951393005373501440,https://pbs.twimg.com/media/DTQG5c8UMAAXE-f.jpg,マリベル,まりべる,ドラゴンクエスト,0
@@ -147,7 +147,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 959799237956444160,959799227932016640,https://pbs.twimg.com/media/DVHkUASVAAAUZXX.jpg,セーニャ,せーにゃ,ドラゴンクエスト,0
 960717413086998528,960717132966146049,https://pbs.twimg.com/media/DVUnJHAUMAEM09E.jpg,フェンサー,ふぇんさー,世界樹の迷宮5,0
 961230352999067648,961230327300542464,https://pbs.twimg.com/media/DVb5484U0AAOmht.jpg,逢坂 大河,あいさか たいが,とらドラ！,0
-961311194698018816,961311086191427584,https://pbs.twimg.com/media/DVdDVvMVwAA9APe.jpg,夜叉神 天衣,やしゃじん あい,りゅうおうのおしごと！,0
+961311194698018816,961311086191427584,https://pbs.twimg.com/media/DVdDVvMVwAA9APe.jpg,夜叉神 天衣,やしゃじん あい,りゅうおうのおしごと！,2
 961574914347098112,961574837343809536,https://pbs.twimg.com/media/DVgzOEzU8AAl8sP.jpg,日奈森 あむ、日奈森 亜夢,ひなもり あむ、ひなもり あむ,しゅごキャラ！,0
 962003196116844544,962003025203097600,https://pbs.twimg.com/media/DVm4p44U8AAQtMe.jpg,プラチナ=ザ=トリニティ,ぷらちな ざ とりにてぃ,BLAZBLUE,0
 962328690217558017,962328632248053760,https://pbs.twimg.com/media/DVrgytpVMAAK6JI.jpg,角谷 杏,かどたに あんず,ガールズ&パンツァー,0
@@ -167,7 +167,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 972414364824223744,972413450008764416,https://pbs.twimg.com/media/DX604XaVoAA2W5I.jpg,リーリエ,りーりえ,ポケットモンスター,0
 972568207662854144,972568178311090176,https://pbs.twimg.com/media/DX9BmvQU0AAv6Bm.jpg,古手 梨花,ふるで りか,ひぐらしのなく頃に,0
 972683863762718721,972683666785673216,https://pbs.twimg.com/media/DX-qpDWVoAAsIDy.jpg,プリンツ・オイゲン,ぷりんつ おいげん,艦隊これくしょん,0
-973096845202243584,973096543061331968,https://pbs.twimg.com/media/DYEiJnVU0AAudi7.jpg,アンチョビ,あんちょび,ガールズ&パンツァー,0
+973096845202243584,973096543061331968,https://pbs.twimg.com/media/DYEiJnVU0AAudi7.jpg,アンチョビ,あんちょび,ガールズ&パンツァー,1
 973524668345827329,973524620887318530,https://pbs.twimg.com/media/DYKnfBgV4AIuRp4.jpg,ヘスティア,へすてぃあ,ダンジョンに出会いを求めるのは間違っているだろうか,0
 973829500864778240,973829279363600384,https://pbs.twimg.com/media/DYO8kexXkAANVnF.jpg,市原 仁奈,いちはら にな,アイドルマスターシンデレラガールズ,0
 973993513816764416,973993328994803713,https://pbs.twimg.com/media/DYRRxbRV4AE2TkB.jpg,山田 エルフ,やまだ えるふ,エロマンガ先生,0
@@ -207,7 +207,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 981613971873546240,981613925195177984,https://pbs.twimg.com/media/DZ9kqgXV4AALYDO.jpg,フェネック,ふぇねっく,けものフレンズ,0
 981845394916229121,981845378520657921,https://pbs.twimg.com/media/DaA3K3MVMAEc9Is.jpg,トウコ,とうこ,ポケットモンスター,0
 982110484059967488,982110389000220672,https://pbs.twimg.com/media/DaEoMgKUMAAtRs6.jpg,鶴田 姫子,つるた ひめこ,咲-Saki-阿知賀編,0
-982231070815875074,982230839697158144,https://pbs.twimg.com/media/DaGVvp-VMAA5B23.jpg,鶴田 姫子,つるた ひめこ,咲-Saki-阿知賀編,0
+982231070815875074,982230839697158144,https://pbs.twimg.com/media/DaGVvp-VMAA5B23.jpg,鶴田 姫子,つるた ひめこ,咲-Saki-阿知賀編,1
 982486685333143552,982486398778277888,https://pbs.twimg.com/media/DaJ-LJvVAAACSbu.jpg,輝夜 月,かぐや るな,VTuber,0
 982758638895837185,982758624714895361,https://pbs.twimg.com/media/DaN1wyYVMAEaH7W.jpg,十時 愛梨,ととき あいり,アイドルマスターシンデレラガールズ,0
 982898928453480448,982898917737086977,https://pbs.twimg.com/media/DaP1W6nVwAEh0wz.jpg,城ヶ崎 莉嘉,じょうがさき りか,アイドルマスターシンデレラガールズ,0
@@ -278,7 +278,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1008410232593121281,1008410225001426944,https://pbs.twimg.com/media/Df6XwcEU8AAGcC8.jpg,城ヶ崎 莉嘉,じょうがさき りか,アイドルマスターシンデレラガールズ,0
 1008806310513598466,1008805994162372608,https://pbs.twimg.com/media/Df__tPFVQAAoBhu.jpg,谷川 柑菜,たにがわ かんな,あの夏で待ってる,0
 1009103351680675840,1009103332151996416,https://pbs.twimg.com/media/DgEOIlaVMAAlyiT.jpg,ハッカドール3号、3号,はっかどーる3ごう、3ごう,ハッカドール,0
-1009402074860146688,1009402065494278144,https://pbs.twimg.com/media/DgId1J1VAAA0EAo.jpg,鶴田 姫子,つるた ひめこ,咲-Saki-阿知賀編,0
+1009402074860146688,1009402065494278144,https://pbs.twimg.com/media/DgId1J1VAAA0EAo.jpg,鶴田 姫子,つるた ひめこ,咲-Saki-阿知賀編,1
 1009654418004848640,1009654413202341888,https://pbs.twimg.com/media/DgMDVuTUwAA_vJb.jpg,美樹 さやか,みき さやか,魔法少女まどか☆マギカ,0
 1010039275696500736,1010039267597299712,https://pbs.twimg.com/media/DgRhXMpVMAAnWd5.jpg,武部 沙織,たけべ さおり,ガールズ&パンツァー,0
 1010148922839392256,1010148916539506689,https://pbs.twimg.com/media/DgTFFmyVQAElRzp.jpg,武部 沙織,たけべ さおり,ガールズ&パンツァー,0
@@ -353,7 +353,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1045662266861924352,1045662214818951169,https://pbs.twimg.com/media/DoLwPoVU8AEWZun.jpg,星月・フェラーリ,ほづき ふぇらーり,ガリレイドンナ,0
 1046308501738274816,1046308496214355968,https://pbs.twimg.com/media/DoU8CKJUcAAE5V0.jpg,アスカ・ラングレー,あすか らんぐれー,新世紀エヴァンゲリオン,0
 1046755095809912833,1046755090877435905,https://pbs.twimg.com/media/DobSNY6U0AE71Ue.jpg,マオ,まお,ポケットモンスター,0
-1047037952495431687,1047037854801637376,https://pbs.twimg.com/media/DofTYanWsAA035Q.jpg,千寿 ムラマサ,せんじゅ むらまさ,エロマンガ先生,0
+1047037952495431687,1047037854801637376,https://pbs.twimg.com/media/DofTYanWsAA035Q.jpg,千寿 ムラマサ,せんじゅ むらまさ,エロマンガ先生,1
 1047445646997770241,1047445637413789696,https://pbs.twimg.com/media/DolGQfOU4AAj-N3.jpg,鹿目 まどか,かなめ まどか,魔法少女まどか☆マギカ,0
 1047630080313159681,1047630067570884609,https://pbs.twimg.com/media/Dont_vGUwAEGAov.jpg,鶴田 姫子,つるた ひめこ,咲-Saki-阿知賀編,0
 1047860497117114371,1047859969888989186,https://pbs.twimg.com/media/Doq_Fz-VsAI__eP.jpg,高木、高木さん,たかぎ、たかぎさん,からかい上手の高木さん,0
@@ -380,7 +380,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1054019651674357760,1054019584120958976,https://pbs.twimg.com/media/DqChOjHVsAAhyrU.jpg,島田 美波,しまだ みなみ,バカとテストと召喚獣,0
 1054366490172973057,1054366379015434243,https://pbs.twimg.com/media/DqHcoqxUcAMx2rZ.jpg,芹沢 モモカ,せりざわ ももか,Tokyo 7th シスターズ,0
 1054709220442959872,1054709190701211648,https://pbs.twimg.com/media/DqMUa70V4AA6Y_A.jpg,芹沢 文乃,せりざわ ふみの,迷い猫オーバーラン！,0
-1055054468012638209,1055054461607981056,https://pbs.twimg.com/media/DqROcWLVsAAQgSN.jpg,島田 愛里寿,しまだ ありす,ガールズ&パンツァー,0
+1055054468012638209,1055054461607981056,https://pbs.twimg.com/media/DqROcWLVsAAQgSN.jpg,島田 愛里寿,しまだ ありす,ガールズ&パンツァー,1
 1055370536685989888,1055370525537558529,https://pbs.twimg.com/media/DqVt5sEVYAEomA5.jpg,妖精弓手,かなとこえるふ,ゴブリンスレイヤー,0
 1055829193735385088,1055829159044247553,https://pbs.twimg.com/media/DqcPBrBU8AEr6z5.jpg,時津風,ときつかぜ,艦隊これくしょん,0
 1056152022985011201,1056151998398001152,https://pbs.twimg.com/media/Dqg0pZVU8AAJbmv.jpg,ソーニャ,そーにゃ,キルミーベイベー,0
@@ -391,7 +391,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1057955735638704128,1057955634644041730,https://pbs.twimg.com/media/Dq6dC18UwAI5Wwy.jpg,佐倉 双葉,さくら ふたば,ペルソナ5,0
 1058331059757113350,1058330915967881216,https://pbs.twimg.com/media/Dq_yXF0UUAAH6II.jpg,天真=ガヴリール=ホワイト,てんま がゔりーる ほわいと,ガヴリールドロップアウト,0
 1058665284142133249,1058665257718018048,https://pbs.twimg.com/media/DrEicV5UcAAltFw.jpg,一色 いろは,いっしき いろは,やはり俺の青春ラブコメはまちがっている。,0
-1058827920775364608,1058827864361992197,https://pbs.twimg.com/media/DrG2VS2VAAUBPZU.jpg,新条 アカネ,しんじょう あかね,SSSS.GRIDMAN,0
+1058827920775364608,1058827864361992197,https://pbs.twimg.com/media/DrG2VS2VAAUBPZU.jpg,新条 アカネ,しんじょう あかね,SSSS.GRIDMAN,1
 1059386191043158021,1059386159548100609,https://pbs.twimg.com/media/DrOyGWfUcAEILTR.jpg,鶴田 姫子,つるた ひめこ,咲-Saki-阿知賀編,0
 1060101465534947333,1060101368499724289,https://pbs.twimg.com/media/DrY8k_dU4AEmR1U.jpg,高梨 ミーシャ,たかなし みーしゃ,うちのメイドがウザすぎる！,0
 1060456500735295488,1060456463095627776,https://pbs.twimg.com/media/Drd_iN6VAAAzlQ9.jpg,美樹 さやか,みき さやか,魔法少女まどか☆マギカ,0
@@ -413,7 +413,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1068511192480571392,1068511184473677824,https://pbs.twimg.com/media/DtQdQtUV4AALbsY.jpg,ハッカドール3号、3号,はっかどーる3ごう、3ごう,ハッカドール,0
 1068851129117696000,1068851089431179264,https://pbs.twimg.com/media/DtVSZx9VsAAKEue.jpg,ミヅキ,みづき,ポケットモンスター,0
 1069128538656202753,1069128487028445184,https://pbs.twimg.com/media/DtZOsciU0AAqIXc.jpg,ミヅキ,みづき,ポケットモンスター,0
-1069490908247158784,1069490885870505984,https://pbs.twimg.com/media/DteYS1bUUAARhGA.jpg,ミヅキ,みづき,ポケットモンスター,0
+1069490908247158784,1069490885870505984,https://pbs.twimg.com/media/DteYS1bUUAARhGA.jpg,ミヅキ,みづき,ポケットモンスター,1
 1069864691298516992,1069864669903351808,https://pbs.twimg.com/media/DtjsP7dUcAAuwHL.jpg,ミヅキ,みづき,ポケットモンスター,0
 1069965281844432896,1069965193915052032,https://pbs.twimg.com/media/DtlHrMlWsAAqQo-.jpg,めぐみん,めぐみん,この素晴らしい世界に祝福を!,0
 1070567162241155072,1070567061586272258,https://pbs.twimg.com/media/DttrEgYVYAIiRAa.jpg,新条 アカネ,しんじょう あかね,SSSS.GRIDMAN,0
@@ -475,7 +475,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1091921027330797568,1091921004383752192,https://pbs.twimg.com/media/DydIXkUU0AAozk7.jpg,二宮 飛鳥,にのみや あすか,アイドルマスターシンデレラガールズ,0
 1092187824361594881,1092187727729123328,https://pbs.twimg.com/media/Dyg686NV4AAhVwh.jpg,サヤカ,さやか,サルゲッチュ,0
 1092320803243225088,1092320767109283840,https://pbs.twimg.com/media/Dyiz80hUwAAzrxk.jpg,ミヅキ,みづき,ポケットモンスター,0
-1092536009672118272,1092535837248520194,https://pbs.twimg.com/media/Dyl3jjOVAAIi2_-.jpg,佐倉 杏子,さくら きょうこ,魔法少女まどか☆マギカ,0
+1092536009672118272,1092535837248520194,https://pbs.twimg.com/media/Dyl3jjOVAAIi2_-.jpg,佐倉 杏子,さくら きょうこ,魔法少女まどか☆マギカ,1
 1092676485607915520,1092676342598926337,https://pbs.twimg.com/media/Dyn3WCcVAAEoaYo.jpg,わたし,わたし,人類は衰退しました,0
 1092927067610439680,1092926665397661698,https://pbs.twimg.com/media/DyrbAviUcAIbl9P.jpg,鏡音 リン,かがみね りん,VOCALOID,0
 1092927067610439680,1092926680270655489,https://pbs.twimg.com/media/DyrbBm8UUAEsurm.jpg,ニパ子,にぱこ,ニパ子,0
@@ -559,7 +559,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1124192626918416384,1124192466800766976,https://pbs.twimg.com/media/D5nvF6LUcAAJVfd.jpg,クー,くー,スカッとゴルフ パンヤ,0
 1124547791047409664,1124547765822840834,https://pbs.twimg.com/media/D5syPCLUYAIVE-e.jpg,ハッカドール2号、2号,はっかどーる2ごう、2ごう,ハッカドール,0
 1124893049090240512,1124892928290111489,https://pbs.twimg.com/media/D5xsKIkUwAELhDm.jpg,メイ,めい,ポケットモンスター,0
-1125059136498987009,1125059108745252864,https://pbs.twimg.com/media/D50DTHAUEAAHOZ_.jpg,ルイズ・フランソワーズ・ル・ブラン・ド・ラ・ヴァリエール,るいず ふらんそわーず る ぶらん ど ら ゔぁりえーる,ゼロの使い魔,0
+1125059136498987009,1125059108745252864,https://pbs.twimg.com/media/D50DTHAUEAAHOZ_.jpg,ルイズ・フランソワーズ・ル・ブラン・ド・ラ・ヴァリエール,るいず ふらんそわーず る ぶらん ど ら ゔぁりえーる,ゼロの使い魔,1
 1125381798785982464,1125381692762386432,https://pbs.twimg.com/media/D54or-HUcAAXWpJ.jpg,黄前 久美子,おうまえ くみこ,響け！ユーフォニアム,0
 1125695478786547714,1125695451859017728,https://pbs.twimg.com/media/D59GDJ1UYAAEoli.jpg,摩耶,まや,艦隊これくしょん,0
 1126093037006774272,1126092854961397761,https://pbs.twimg.com/media/D6CvfDwUYAE7QHp.jpg,ユウリ,ゆうり,ポケットモンスター,0
@@ -570,17 +570,17 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1127442881893941249,1127442853922201600,https://pbs.twimg.com/media/D6V7TVyV4AA7Rx-.jpg,天草 シノ,あまくさ しの,生徒会役員共,0
 1127773998895341570,1127773929508966401,https://pbs.twimg.com/media/D6aoaedUEAEu3Gy.jpg,日奈森 あむ、日奈森 亜夢,ひなもり あむ、ひなもり あむ,しゅごキャラ！,0
 1127901878627344385,1127901853318934528,https://pbs.twimg.com/media/D6ccwnyUcAAooU_.jpg,エドナ,えどな,テイルズ オブ ゼスティリア,0
-1128193738918858759,1128193629015515136,https://pbs.twimg.com/media/D6gmIM9UIAA02XW.jpg,千寿 ムラマサ,せんじゅ むらまさ,エロマンガ先生,0
+1128193738918858759,1128193629015515136,https://pbs.twimg.com/media/D6gmIM9UIAA02XW.jpg,千寿 ムラマサ,せんじゅ むらまさ,エロマンガ先生,1
 1128286791969062912,1128286713820766208,https://pbs.twimg.com/media/D6h6yc4UYAA5939.jpg,双葉 杏,ふたば あんず,アイドルマスターシンデレラガールズ,0
 1128489730243305473,1128489670466199552,https://pbs.twimg.com/media/D6kzYFTV4AA6USF.jpg,アルカ,あるか,サモンナイト,0
 1128669783447072770,1128669693156384768,https://pbs.twimg.com/media/D6nXGyFV4AAqIpS.jpg,武部 沙織,たけべ さおり,ガールズ&パンツァー,0
-1128891889053134848,1128891819255783424,https://pbs.twimg.com/media/D6qhIOSV4AAreuL.jpg,めぐみん,めぐみん,この素晴らしい世界に祝福を!,0
+1128891889053134848,1128891819255783424,https://pbs.twimg.com/media/D6qhIOSV4AAreuL.jpg,めぐみん,めぐみん,この素晴らしい世界に祝福を!,1
 1129235645920997376,1129235624127414272,https://pbs.twimg.com/media/D6vZ0TPUwAAqobG.jpg,紫咲 シオン,むらさき しおん,ホロライブ,0
 1129332702253969408,1129332542602014720,https://pbs.twimg.com/media/D6wx9ssU8AAqhdp.jpg,イカ娘,いかむすめ,侵略!イカ娘,0
 1129570113764511744,1129570065450319872,https://pbs.twimg.com/media/D60J_WQUwAA8gbz.jpg,新条 アカネ,しんじょう あかね,SSSS.GRIDMAN,0
 1129963747160670208,1129963676503425026,https://pbs.twimg.com/media/D65v-hsUwAIqz0U.jpg,ハッカドール3号、3号,はっかどーる3ごう、3ごう,ハッカドール,0
 1130103458462232576,1130103335652954112,https://pbs.twimg.com/media/D67u_wkUEAAJXTD.jpg,結城 明日奈、アスナ,ゆうき あすな、あすな,ソードアート・オンライン,0
-1130413103722536960,1130412872004071425,https://pbs.twimg.com/media/D7AIhJVU8AE9AYJ.jpg,鏡音 リン,かがみね りん,VOCALOID,0
+1130413103722536960,1130412872004071425,https://pbs.twimg.com/media/D7AIhJVU8AE9AYJ.jpg,鏡音 リン,かがみね りん,VOCALOID,1
 1130657883123736576,1130657825632296960,https://pbs.twimg.com/media/D7DnTUtUIAAhrUH.jpg,蕪羅亭 魔梨威、マリー,ぶらてい まりい、まりー,じょしらく,0
 1130796843560910851,1130796801693442049,https://pbs.twimg.com/media/D7Flsy4V4AEbBwZ.jpg,香風 智乃,かふう ちの,ご注文はうさぎですか？,0
 1131017502010380288,1131017359668330498,https://pbs.twimg.com/media/D7IuS9XUwAIPI92.jpg,遠坂 凛,とおさか りん,Fate/stay night,0
@@ -595,9 +595,9 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1133122418858291200,1133122387438739456,https://pbs.twimg.com/media/D7mozs5UIAA2pn-.jpg,スイレン,すいれん,ポケットモンスター,0
 1133382127096147970,1133381250062987266,https://pbs.twimg.com/media/D7qUPfUXsAI6Exr.jpg,織田 信姫,おだ のぶひめ,VTuber,0
 1133492507046600704,1133492174107029506,https://pbs.twimg.com/media/D7r5IHlVsAIONbx.jpg,天羽 よつは,あまはね よつは,VTuber,0
-1133701837633122305,1133701504626331658,https://pbs.twimg.com/media/D7u3gwiUEAoZB56.jpg,白井 黒子,しらい くろこ,とある魔術の禁書目録,0
+1133701837633122305,1133701504626331658,https://pbs.twimg.com/media/D7u3gwiUEAoZB56.jpg,白井 黒子,しらい くろこ,とある魔術の禁書目録,1
 1133926205193838594,1133926159148699648,https://pbs.twimg.com/media/D7yD1X2U0AAenq1.jpg,キュアホワイト、雪城 ほのか,きゅあほわいと、ゆきしろ ほのか,ふたりはプリキュア,0
-1134180670115160064,1134180509301350400,https://pbs.twimg.com/media/D71rKgAUIAAWKwW.jpg,ライザリン・シュタウト、ライザ,らいざりん しゅたうと、らいざ,ライザのアトリエ,0
+1134180670115160064,1134180509301350400,https://pbs.twimg.com/media/D71rKgAUIAAWKwW.jpg,ライザリン・シュタウト、ライザ,らいざりん しゅたうと、らいざ,ライザのアトリエ,1
 1134411729826267136,1134411527392378880,https://pbs.twimg.com/media/D749RhdUwAA-l4k.jpg,種島 ぽぷら,たねしま ぽぷら,WORKING!!,0
 1134685524550082560,1134685254545883137,https://pbs.twimg.com/media/D782OikUwAEXh3s.jpg,ヨーコ・リットナー,よーこ りっとなー,天元突破グレンラガン,0
 1134783458755006465,1134783441772240896,https://pbs.twimg.com/media/D7-PhyfUYAAodVK.jpg,結城 晴,ゆうき はる,アイドルマスターシンデレラガールズ,0
@@ -609,7 +609,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1136498567865032704,1136498538542534656,https://pbs.twimg.com/media/D8WnZj2UEAAYF6k.jpg,秋山 優花里,あきやま ゆかり,ガールズ&パンツァー,0
 1136827732204052486,1136827678076444672,https://pbs.twimg.com/media/D8bSwAKUIAA0kK6.jpg,本間 芽衣子、めんま,ほんま めいこ、めんま,あの日見た花の名前を僕達はまだ知らない。,0
 1136993244078698496,1136993199174574084,https://pbs.twimg.com/media/D8dpSmTV4AQBsXr.jpg,長野原 みお,ながのはら みお,日常,0
-1137194084714500097,1137194010588540929,https://pbs.twimg.com/media/D8gf7XHU8AE38Eb.jpg,フェリ,ふぇり,グランブルファンタジー,0
+1137194084714500097,1137194010588540929,https://pbs.twimg.com/media/D8gf7XHU8AE38Eb.jpg,フェリ,ふぇり,グランブルファンタジー,1
 1137611423452880896,1137611114932461570,https://pbs.twimg.com/media/D8mbSB4V4AIAPtK.jpg,五更 瑠璃、黒猫,ごこう るり、くろねこ,俺の妹がこんなに可愛いわけがない,0
 1138066486981881861,1138066376273252352,https://pbs.twimg.com/media/D8s5VuiVUAA4l4g.jpg,メイ,めい,ポケットモンスター,0
 1138432137705558017,1138432014447591425,https://pbs.twimg.com/media/D8yF4q4UwAEtVoI.jpg,宇崎 花,うざき はな,宇崎ちゃんは遊びたい！,0
@@ -626,7 +626,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1142690783901802499,1142690734274838528,https://pbs.twimg.com/media/D9unKyiVAAAFbAJ.jpg,中川 夏紀,なかがわ なつき,響け！ユーフォニアム,0
 1143172236129341441,1143172193834000387,https://pbs.twimg.com/media/D91dDbKUYAMkdVD.jpg,ルイズ・フランソワーズ・ル・ブラン・ド・ラ・ヴァリエール,るいず ふらんそわーず る ぶらん ど ら ゔぁりえーる,ゼロの使い魔,0
 1143558765007949824,1143556523764801536,https://pbs.twimg.com/media/D966mXuU4AAwa1N.jpg,中野 梓,なかの あずさ,けいおん！,0
-1144090157793988609,1144090053104160768,https://pbs.twimg.com/media/D-Cf13ZU0AAzngK.jpg,新子 憧 ,あたらし あこ,咲-Saki-阿知賀編,0
+1144090157793988609,1144090053104160768,https://pbs.twimg.com/media/D-Cf13ZU0AAzngK.jpg,新子 憧 ,あたらし あこ,咲-Saki-阿知賀編,1
 1144647206307151872,1144647155077959680,https://pbs.twimg.com/media/D-Kahd-VUAA7C9j.jpg,輝夜 月,かぐや るな,VTuber,0
 1146266068471767041,1146266051094691842,https://pbs.twimg.com/media/D-ha5nmWwAIwWPR.jpg,手品先輩、先輩,てじなせんぱい、せんぱい,手品先輩,0
 1146643637075234816,1146643275261984768,https://pbs.twimg.com/media/D-mx-9IUwAA8t-U.jpg,八乙女 うるし,やおとめ うるし,それでも歩は寄せてくる,0
@@ -634,10 +634,10 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1147001562981552128,1147001499077111808,https://pbs.twimg.com/media/D-r3yU1U8AAzn9n.jpg,メイ,めい,ポケットモンスター,0
 1147295449239261184,1147295228170137600,https://pbs.twimg.com/media/D-wC7m-U8AAxzDm.jpg,イリヤスフィール・フォン・アインツベルン、イリヤ,いりやすふぃーる ふぉん あいんつべるん、いりや,Fate/kaleid liner プリズマ☆イリヤ,0
 1147522653139288065,1147522306241024000,https://pbs.twimg.com/media/D-zRdStVUAAvUfH.jpg,柊 つかさ&柊 かがみ,ひいらぎ つかさ&ひいらぎ かがみ,らき☆すた,0
-1147870710213165056,1147870482261168128,https://pbs.twimg.com/media/D-4OHzdVUAAik35.jpg,白井 黒子,しらい くろこ,とある魔術の禁書目録,0
+1147870710213165056,1147870482261168128,https://pbs.twimg.com/media/D-4OHzdVUAAik35.jpg,白井 黒子,しらい くろこ,とある魔術の禁書目録,1
 1148220074433474560,1148219902899044352,https://pbs.twimg.com/media/D-9L6wxUwAA_IkG.jpg,高木、高木さん,たかぎ、たかぎさん,からかい上手の高木さん,0
 1149652159253712897,1149652130560479232,https://pbs.twimg.com/media/D_RihYlUEAA2CZ-.jpg,七宮 智音,しちみや さとね,中二病でも恋がしたい！,0
-1150391602101141504,1150391583188979713,https://pbs.twimg.com/media/D_cDDMSUEAEVITC.jpg,武部 沙織,たけべ さおり,ガールズ&パンツァー,0
+1150391602101141504,1150391583188979713,https://pbs.twimg.com/media/D_cDDMSUEAEVITC.jpg,武部 沙織,たけべ さおり,ガールズ&パンツァー,1
 1153500524177526784,1153500519060533248,https://pbs.twimg.com/media/EAIOnE7U8AAhmvl.jpg,一色 あかね,いっしき あかね,ビビッドレッド・オペレーション,0
 1155820235171041280,1155820228288270336,https://pbs.twimg.com/media/EApMX7NVUAAxDwL.jpg,山田 エルフ,やまだ えるふ,エロマンガ先生,0
 1156170316118237186,1156170310875377664,https://pbs.twimg.com/media/EAuKxaeUcAAaunL.jpg,ホシノ・フミナ,ほしの ふみな,ガンダムビルドファイターズトライ,0
@@ -679,7 +679,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1167485295396147200,1167485290912481281,https://pbs.twimg.com/media/EDO9r71VAAEvEVN.jpg,美樹 さやか,みき さやか,魔法少女まどか☆マギカ,0
 1167648553562341377,1167648547166183424,https://pbs.twimg.com/media/EDRSKsxXYAAH8E3.jpg,エドナ,えどな,テイルズ オブ ゼスティリア,0
 1167769659099107330,1167769654850228224,https://pbs.twimg.com/media/EDTAUGDUEAAP9Rl.jpg,初音 ミク,はつね みく,VOCALOID,0
-1168003893256544256,1168003888550563840,https://pbs.twimg.com/media/EDWVWSlU0AAeeSK.jpg,ミヅキ,みづき,ポケットモンスター,0
+1168003893256544256,1168003888550563840,https://pbs.twimg.com/media/EDWVWSlU0AAeeSK.jpg,ミヅキ,みづき,ポケットモンスター,1
 1168131379839655937,1168131375100088320,https://pbs.twimg.com/media/EDYJS-_UUAA1Q8X.jpg,ホミカ,ほみか,ポケットモンスター,0
 1168376909241057280,1168376904895721473,https://pbs.twimg.com/media/EDbomswUcAER1j7.jpg,双葉 杏,ふたば あんず,アイドルマスターシンデレラガールズ,0
 1168465196660080643,1168465191559811072,https://pbs.twimg.com/media/EDc45qNU0AAOp-S.jpg,メイ,めい,ポケットモンスター,0
@@ -722,9 +722,9 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1189424515131920384,1189424511164145664,https://pbs.twimg.com/media/EIGvSoMU4AAIT7v.jpg,めぐみん,めぐみん,この素晴らしい世界に祝福を!,0
 1189900421558501376,1189900415288193026,https://pbs.twimg.com/media/EINgH5NXsAICGLS.jpg,鏡音 リン,かがみね りん,VOCALOID,0
 1190638264522174464,1190638258910322690,https://pbs.twimg.com/media/EIX_MC5W4AI7dsg.jpg,矢澤 にこ,やざわ にこ,ラブライブ！,0
-1191200452114665472,1191200447836504065,https://pbs.twimg.com/media/EIf-fv2UwAExPaG.jpg,ランサー、エリザベート・バートリー,らんさー、えりざべーと ばーとりー,Fate/Extra-CCC,0
+1191200452114665472,1191200447836504065,https://pbs.twimg.com/media/EIf-fv2UwAExPaG.jpg,ランサー、エリザベート・バートリー,らんさー、えりざべーと ばーとりー,Fate/Extra-CCC,1
 1191378753475117056,1191378749503070208,https://pbs.twimg.com/media/EIigqRUUYAAfWrT.jpg,二宮 鈴,にのみや すず,あつまれ！ふしぎ研究部,0
-1192175069293764608,1192175064432594944,https://pbs.twimg.com/media/EIt055mVUAAtQX4.jpg,山田 エルフ,やまだ えるふ,エロマンガ先生,0
+1192175069293764608,1192175064432594944,https://pbs.twimg.com/media/EIt055mVUAAtQX4.jpg,山田 エルフ,やまだ えるふ,エロマンガ先生,1
 1192465369731960833,1192465364094832641,https://pbs.twimg.com/media/EIx87kHUUAEslCA.jpg,武部 沙織,たけべ さおり,ガールズ&パンツァー,0
 1192757576418545666,1192757571368603649,https://pbs.twimg.com/media/EI2GsRCVUAEEYGZ.jpg,秋山 優花里,あきやま ゆかり,ガールズ&パンツァー,0
 1193069671399837696,1193069667302031361,https://pbs.twimg.com/media/EI6iio_UwAEcvkw.jpg,三峰 真白,みつみね ましろ,未確認で進行形,0
@@ -1037,7 +1037,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1350957102924238852,1350957079025111044,https://pbs.twimg.com/media/Er-QTkIXUAQwqhY.jpg,双葉 杏,ふたば あんず,アイドルマスターシンデレラガールズ,0
 1351151006063734785,1351150951802007552,https://pbs.twimg.com/media/EsBAocgW8AAotJ2.jpg,古河 渚,ふるかわ なぎさ,CLANNAD,0
 1351864087727095811,1351863550998765569,https://pbs.twimg.com/media/EsLIvLYUYAEkXDa.jpg,杉浦 綾乃,すぎうら あやの,ゆるゆり,0
-1352113529076080641,1352113493244145664,https://pbs.twimg.com/media/EsOsDuzUcAAU1PV.jpg,ロキシー・ミグルディア,ろきしー みぐるでぃあ,無職転生,0
+1352113529076080641,1352113493244145664,https://pbs.twimg.com/media/EsOsDuzUcAAU1PV.jpg,ロキシー・ミグルディア,ろきしー みぐるでぃあ,無職転生,1
 1352281635413086210,1352281549757009922,https://pbs.twimg.com/media/EsRE56GU0AII-Lj.jpg,キラキラ,きらきら,ドーナドーナ,0
 1352514413576634369,1352514206449377281,https://pbs.twimg.com/media/EsUYgT0VoAEiehX.jpg,各務原 なでしこ,かがみはら なでしこ,ゆるキャン△,0
 1352953025690701824,1352952999602077696,https://pbs.twimg.com/media/EsanlbsUwAAFLhI.jpg,メイ,めい,ポケットモンスター,0
@@ -1252,7 +1252,7 @@ tweet_id,media_id,image_url,character_name,character_ruby,work_name,rating
 1504826378948018176,1504826318923329539,https://pbs.twimg.com/media/FOI3kGwVcAMcEKR.jpg,紫咲 シオン,むらさき しおん,ホロライブ,0
 1505548204099604483,1505548186831654912,https://pbs.twimg.com/media/FOTIGWRVkAAFG_0.jpg,水谷 雫,みずたに しずく,となりの怪物くん,0
 1507364822748319747,1507364786153033729,https://pbs.twimg.com/media/FOs8SWGVkAER0pc.jpg,びわ,びわ,平家物語,0
-1507923303570190339,1507923278676910082,https://pbs.twimg.com/media/FO04O44UYAIkeF3.jpg,ワトソン・アメリア,わとそん あめりあ,ホロライブEnglish,0
+1507923303570190339,1507923278676910082,https://pbs.twimg.com/media/FO04O44UYAIkeF3.jpg,ワトソン・アメリア,わとそん あめりあ,ホロライブEnglish,2
 1510300609861148674,1510300535974367238,https://pbs.twimg.com/media/FPWqVebVkAY3k4i.jpg,がうる・ぐら、Gawr Gura,がうる ぐら,ホロライブEnglish,0
 1511734488438431747,1511734269369933826,https://pbs.twimg.com/media/FPrCTviUYAIu7GI.jpg,湊 あくあ,みなと あくあ,ホロライブ,0
 1512273676917370886,1512273668499378180,https://pbs.twimg.com/media/FPys454VEAQul8b.jpg,初音 ミク,はつね みく,VOCALOID,0
