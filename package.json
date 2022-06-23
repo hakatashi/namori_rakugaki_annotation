@@ -14,7 +14,7 @@
     "cheerio": "^1.0.0-rc.10",
     "csv-parse": "^5.0.4",
     "dotenv": "^16.0.0",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^10.1.0",
     "googleapis": "^100.0.0",
     "jest": "^28.1.0",
     "oauth": "^0.9.15",
