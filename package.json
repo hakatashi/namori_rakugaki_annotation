@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^1.4.0",
     "cheerio": "^1.0.0-rc.10",
-    "csv-parse": "^5.3.2",
+    "csv-parse": "^5.3.10",
     "dotenv": "^16.0.2",
     "fs-extra": "^10.1.0",
     "googleapis": "^117.0.0",
