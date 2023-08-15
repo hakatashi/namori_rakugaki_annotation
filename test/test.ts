@@ -31,7 +31,7 @@ describe('namori.csv', () => {
 			expect(media_id).toMatch(/^\d+$/);
 			expect(image_url).toMatch(/^https:\/\//);
 			expect(character_name).toBeTruthy();
-			expect(character_ruby).toMatch(/^[あ-んゔー、\d &]+$/)
+			expect(character_ruby).toMatch(/^[ぁ-ゔー、\d &]+$/)
 			expect(work_name).toBeTruthy();
 		}
 	});
