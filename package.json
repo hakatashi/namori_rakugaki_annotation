@@ -3,7 +3,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@types/fs-extra": "^11.0.2",
+    "@types/fs-extra": "^11.0.3",
     "@types/jest": "^27.4.0",
     "@types/node": "^20.8.7",
     "@types/oauth": "^0.9.3",
