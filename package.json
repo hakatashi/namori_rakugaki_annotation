@@ -5,7 +5,7 @@
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
     "@types/jest": "^27.4.0",
-    "@types/node": "^20.11.10",
+    "@types/node": "^20.11.13",
     "@types/oauth": "^0.9.4",
     "ts-jest": "^28.0.4"
   },
