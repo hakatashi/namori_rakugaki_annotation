@@ -4,7 +4,7 @@
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
-    "@types/jest": "^27.4.0",
+    "@types/jest": "^30.0.0",
     "@types/node": "^24.0.4",
     "@types/oauth": "^0.9.6",
     "ts-jest": "^28.0.4"
@@ -16,7 +16,7 @@
     "dotenv": "^16.5.0",
     "fs-extra": "^11.3.0",
     "googleapis": "^150.0.1",
-    "jest": "^28.1.3",
+    "jest": "^30.0.3",
     "oauth": "^0.10.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
